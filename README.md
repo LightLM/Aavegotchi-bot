@@ -1,0 +1,2 @@
+# Aavegotchi-bot
+ Finds crystals
